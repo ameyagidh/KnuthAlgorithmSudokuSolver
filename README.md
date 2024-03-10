@@ -6,6 +6,8 @@ https://ameyasudokusolver.netlify.app/
 KnuthAlgorithmSudokuSolver is a React web application that provides a solution for solving Sudoku puzzles using Donald Knuth's Dancing Links algorithm.
 
 ## Screenshots
+<img width="1496" alt="Screenshot 2024-03-10 at 7 20 01 AM" src="https://github.com/ameyagidh/MusicStreamingDatabase/assets/65457905/5b1bf85d-dea6-4ae6-ae46-eb2a2040700d">
+
 ![8i6r9p](https://github.com/ameyagidh/KnuthAlgorithmSudokuSolver/assets/65457905/5023c8c4-e8b4-4beb-88fd-fddd2569ee5d)
 
 
